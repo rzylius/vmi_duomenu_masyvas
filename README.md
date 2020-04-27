@@ -1,10 +1,11 @@
 # vmi_duomenu_masyvas
 #
 # VMI sukurtas duomenų masyvas pagal EPPI prašymą, 2020-04-22
-#
+Europos viešosios politikos institutas kreipėsi į VMI prašydamas sukurti duomenų masyvą, kurie leistų suinteresuotai visuomenei analizuoti ekonomikos esamą situaciją, jos tendencijas, kurti bei testuoti įvairius paramos modelius ir jų kainas. 
 
 
-# Imtis
+
+# Duomenų imtis
 Šiame masyve pateikiamos šik įmonės, įregistruotos PVM mokėtojais
 Šis masyvas sugeneruotas ~2020-04-20, tad ne visos įmonės tuo metu buvo pateikusios 2020 kovo mėn duomenis (deklaravimo data yra iki 25 dienos). 
 

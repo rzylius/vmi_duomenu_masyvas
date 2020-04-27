@@ -30,14 +30,21 @@ Tai faktiškai sumokėta visų mokesčių suma tą mėnesį (t.y. tai nėra mok�
 # PVMD 
 PVM deklaracijoje FR0600v2 deklaruota prekių ir paslaugų sandorių suma (be PVM). Imama formos šių laukelių suma:
  11.	„PVM apmokestinami sandoriai“
- 12.	„PVM apmokestinami sandoriai, kai PVM išskaito pirkėjas (96 str. nustatytais atvejais)“
- 13.	„PVM neapmokestinami sandoriai“
- 14.	„Sandorių, kuriems taikoma spec. apmokestinimo schema, marža“
- 15.	„Prekių eksportas (0 proc.)“
- 16.	„ES PVM mokėtojams patiektos prekės (0 proc.)“
- 17.	„Kiti PVM apmokestinami sandoriai (0 proc.)“
- 18.	„Už Lietuvos ribų įvykę sandoriai (ne PVM objektas Lietuvoje)“
  
+ 12.	„PVM apmokestinami sandoriai, kai PVM išskaito pirkėjas (96 str. nustatytais atvejais)“
+ 
+ 13.	„PVM neapmokestinami sandoriai“
+ 
+ 14.	„Sandorių, kuriems taikoma spec. apmokestinimo schema, marža“
+ 
+ 15.	„Prekių eksportas (0 proc.)“
+ 
+ 16.	„ES PVM mokėtojams patiektos prekės (0 proc.)“
+ 
+ 17.	„Kiti PVM apmokestinami sandoriai (0 proc.)“
+ 
+ 18.	„Už Lietuvos ribų įvykę sandoriai (ne PVM objektas Lietuvoje)“
+  
 Ši suma nebūtinai sutampa su tą mėnesį išrašytų sąskaitų suma (kai kurie sandoriai nematomi PSF, pvz.: yra tiekimai į ES; eksportas ir pan.; taip pat gali skirtis PVM apmokestinimo momentas (avansiniai mokėjimai ir kai kurios išimtys).
 
 

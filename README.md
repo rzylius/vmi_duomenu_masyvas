@@ -51,6 +51,8 @@ PVM deklaracijoje FR0600v2 deklaruota prekių ir paslaugų sandorių suma (be PV
 # PVM Prievolė 
 Tą mėnesį mokėtina į VMI sąskaitą PVM suma. Duomenys pateikiami iš PVM deklaracijos (FR0600v2) 36 laukelio „Mokėtinas į biudžetą arba grąžintinas iš biudžeto (-) PVM (27+29+30+31+32+33+34-35)“.
 
+# Darbuotojai 20200301,	Darbuotojai 20200401
+Darbuotojų skaičius įmonėje nurodytą datą (2020-03-01 ir 2020-04-01)
  
 # Darbo apmokėjimo suma 2019
 Įmonės išlaidos darbo užmokesčiui, įskaitant mokesčius. Atkreiptinas dėmesys, kad kai kurios gaunamos pajamos nepatenka į šią sumą (komandiruotės, įvairios SODRA neapmokestinamos pajamos ir pan.).

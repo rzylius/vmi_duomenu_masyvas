@@ -23,7 +23,7 @@ Kuriais metais įmonė registruota PVM mokėtoju.
 # Statusas
 „0. Teisinis statusas neįregistruotas“ yra statusas, rodantis normaliai veikiančią įmonę.
 
-# "Mokėjimai"
+# Mokėjimai
 Tai faktiškai sumokėta visų mokesčių suma tą mėnesį (t.y. tai nėra mokėtini mokesčiai už tą mėnesį, o faktiškai sumokėtų mokesčių suma), balansas, t.y. įskaitant atliktus grąžinimus.
 
 

@@ -1,9 +1,9 @@
 # vmi_duomenu_masyvas
 #
 # VMI sukurtas duomenų masyvas. Masyvo data 2020-04-22
-Valstybinė mokesčių inspekcija bendradarbiaudama su VšĮ "Europos viešosios politikos institutas", atrinko duomenis į duomenų masyvą, kurie leistų suinteresuotai visuomenei analizuoti ekonomikos esamą situaciją, jos tendencijas, kurti bei testuoti įvairius paramos modelius ir jų kainas. 
+Valstybinė mokesčių inspekcija bendradarbiaudama su VšĮ "Europos viešosios politikos institutas", atrinko duomenis į duomenų masyvą, kurie leistų suinteresuotai visuomenei analizuoti ekonomikos esamą situaciją, jos tendencijas, kurti bei testuoti įvairius paramos modelius ir jų kainas. VMI leidus, pateikiame duomenis plačiąjai visuomenei.
 
-Pastabas ar priekaištus rašykite rzylius@gmail.com, Rimantas Žylius
+Pastabas ar priekaištus rašykite EVPI, EVPinstitutas@gmail.com, Rimantas Žylius
 
 # Duomenų imtis
 Šiame masyve pateikiamos šik įmonės, įregistruotos PVM mokėtojais

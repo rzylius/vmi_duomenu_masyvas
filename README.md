@@ -18,7 +18,7 @@ dirbtinis įmonės kodas, skirtas susieti įmonės duomenis šioje lentelėje ir
 Kuriais metasi įmonė registruota mokesčių mokėtojų registre
 
 # PVM reg metai
-Kuriais metasi įmonė PVM  mokėtoju
+Kuriais metasi įmonė registruota PVM  mokėtoju
 
 # Statusas
 "0. Teisinis statusas neįregistruotas" yra statusas rodantis normaliai veikiančią įmonę. 

@@ -2,8 +2,14 @@
 #
 # VMI sukurtas duomenų masyvas pagal EPPI prašymą, 2020-04-22
 #
-# Duomenų laukų paaiškinimai
 
+
+# Imtis
+Šiame masyve pateikiamos šik įmonės, įregistruotos PVM mokėtojais
+Šis masyvas sugeneruotas ~2020-04-20, tad ne visos įmonės tuo metu buvo pateikusios 2020 kovo mėn duomenis (deklaravimo data yra iki 25 dienos). 
+
+
+# Duomenų laukų paaiškinimai
 # ID
 dirbtinis įmonės kodas, skirtas susieti įmonės duomenis šioje lentelėje ir jos atnaujinimuose, tačiau neturintis nieko bendro su jokiais įmonės juridinių asmenų ar PVM registro numeriais.
 

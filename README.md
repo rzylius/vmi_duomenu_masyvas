@@ -6,7 +6,7 @@ Valstybinė mokesčių inspekcija bendradarbiaudama su VšĮ "Europos viešosios
 Pastabas ar priekaištus rašykite EVPI, EVPinstitutas@gmail.com, Rimantas Žylius
 
 # Duomenų imtis
-Šiame masyve pateikiamos šik įmonės, įregistruotos PVM mokėtojais
+Šiame masyve pateikiamos tik įmonės, įregistruotos PVM mokėtojais
 Šis masyvas sugeneruotas ~2020-04-20, tad ne visos įmonės tuo metu buvo pateikusios 2020 kovo mėn duomenis (deklaravimo data yra iki 25 dienos). 
 
 
